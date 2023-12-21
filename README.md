@@ -5,4 +5,4 @@ https://docs.google.com/spreadsheets/d/1Vr_ffjGcbkb277BQqDKvnxTrXbYjRxYNLqfk_yxl
 
  2.Так же подготовлены тест кейсы на функциональность Add Customer (в TMS Qase) согласно чек-листу. Файл Test_doc.
  
- 3.Найденные были оформлены в виде отчётов о дефекте в bug tracking system Youtrack. Файл Test_doc YT.
+ 3.Найденные были оформлены в виде отчётов о дефекте в bug tracking system Youtrack. Файл BugReport_Test_doc.pdf.
